@@ -1,6 +1,6 @@
-# Sublime VSCode Theme
+# Examples
 
-This is the *Sublime VSCode Theme* theme in **Visual Studio Code for the Web**!
+This is the *Theme Tester Playground* in **Visual Studio Code for the Web**!
 
 ---
 
